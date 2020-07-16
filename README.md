@@ -1,6 +1,6 @@
 # Protheus x Telegram
 
-Estrutura básica de integração entre ERP Protheus x Telegram. O modelo a seguir contempla apenas o envio de mensagens. A recepção\resposta será disponibilizada em um outro momento com duas opções sendo que a primeira será utilizada um JOB para ficar monitorando o recebimento de mensagens já o segundo será utilizado a criação de um WebHook que na minha opinião é a melhor opção.
+Estrutura básica de integração entre ERP Protheus x Telegram. O modelo a seguir contempla apenas o envio de mensagens. A recepção\resposta será disponibilizada em um outro momento com duas opções sendo que a primeira será utilizada um JOB para ficar monitorando o recebimento de mensagens e o segundo será a criação de um serviço API WebHook que na minha opinião é a melhor opção.
 
 
 Veja como é simples a chamada:
